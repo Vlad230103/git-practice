@@ -1,1 +1,1 @@
-"print('file1')" 
+print('изменение от person2') 
